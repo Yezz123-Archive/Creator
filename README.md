@@ -5,7 +5,6 @@
 
 [![Build Status](https://img.shields.io/github/stars/yezz123/Creator.svg)](https://github.com/yezz123/Creator)
 [![Build Status](https://img.shields.io/github/forks/yezz123/Creator.svg)](https://github.com/yezz123/Creator)
-[![License: CC](https://img.shields.io/github/license/yezz123/Creator.svg)](https://github.com/yezz123/Creator)
 
 ## About Creator tool :
 
